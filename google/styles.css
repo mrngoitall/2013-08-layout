@@ -35,3 +35,8 @@ body {
 .navactiveitem {
 	color: #fff !important;
 }
+
+#logo {
+
+	padding-top: 160px;
+}
